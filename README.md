@@ -1,2 +1,2 @@
 # SPG
-Strong password generator based on Biometrics
+基于生物特征及弱口令的强口令生成器
